@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <h1>Hello</h1>
+        <p>My native is Allur </p>
         <a
           className="App-link"
           href="https://reactjs.org"
